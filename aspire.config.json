@@ -1,0 +1,8 @@
+{
+  "appHost": {
+    "path": "EntraAspireTest.AppHost/EntraAspireTest.AppHost.csproj"
+  },
+  "configSource": {
+    "optOut": true
+  }
+}
